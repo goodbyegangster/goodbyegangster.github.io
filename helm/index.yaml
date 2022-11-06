@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  sample:
+  - apiVersion: v2
+    appVersion: 2.0.0
+    created: "2022-11-06T20:41:54.2659454+09:00"
+    description: Sample Helm Chart
+    digest: 31f67984128e54967d4aa111368c4b9902ecd5e5239e0b3d1fccf1b5b99dea90
+    icon: http://dummy.com/
+    kubeVersion: '>= 1.25.0'
+    name: sample
+    type: application
+    urls:
+    - sample-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-11-06T20:41:54.2650981+09:00"
